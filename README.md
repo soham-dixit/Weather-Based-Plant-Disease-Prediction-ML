@@ -1,1 +1,1 @@
-# Region-Based-Plant-Disease-Prediction
+# Region Based Plant Disease Prediction ML Model
