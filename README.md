@@ -1,1 +1,1 @@
-# Weather Based Plant Disease Prediction ML Model
+# Weather Based Plant Disease Prediction using Ensemble Learning
